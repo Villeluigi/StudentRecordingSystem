@@ -1,0 +1,16 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  min-height: 100vh;
+  background-color: #16c7f8; /* optional light background */
+}
+
+.logo-box {
+  background-color: #f7ff0e;
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
